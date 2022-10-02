@@ -23,6 +23,22 @@
 .form-control :hover{
     background-color: gray;
 }
+.fa-facebook{
+    
+    font-size: 40px;
+    padding-left: 10px;
+    
+}
+.fa-twitter{
+    
+    font-size: 40px;
+    padding-left: 10px;
+}
+.fa-whatsapp{
+    
+    font-size: 40px;
+    padding-left: 10px;
+}
 #minibar{
     background: linear-gradient(rgba (0,0,0,0.6),rgba (0,0,0,0.6));
     color: rgb(6, 7, 7);
@@ -52,6 +68,7 @@
     width: 100%;
     border-radius: 10px;
     padding-top: 5px;
+    vertical-align: baseline;
 
 }
 .footer{
