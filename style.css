@@ -1,0 +1,68 @@
+#djmaza{
+ font-weight: bold;
+ font-family: Verdana;
+ text-align: center;
+ background-color: rgb(243, 230, 53);
+
+}
+.nav-item{
+    color: white;
+}
+.nav-link{
+    color: white;
+}
+.navbar{
+    color: white;
+
+    text-decoration: none;
+}
+.form-control{
+    background-color: white;
+
+}
+.form-control :hover{
+    background-color: gray;
+}
+#minibar{
+    background: linear-gradient(rgba (0,0,0,0.6),rgba (0,0,0,0.6));
+    color: rgb(6, 7, 7);
+    font-size: 25px;
+    font-weight: bold;
+    background-image: linear-gradient(to right, rgb(120, 59, 233) , rgb(232, 11, 240));
+
+ 
+}
+.card {
+    /* box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); */
+    transition: 0.5s;
+    width: 90%;
+    margin-top: 10px;
+  }
+  
+  .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+  .container {
+    padding: 5px 16px;
+    
+  }
+.img{
+    height: 100px;
+    width: 100%;
+    border-radius: 10px;
+    padding-top: 5px;
+
+}
+.footer{
+    background-color: grey;
+    height: 100px;
+    margin-top: 10px;
+
+}
+.footer p{
+    color: black;
+    font-size: 20px;
+    text-align: center;
+    font-style: italic;
+}
